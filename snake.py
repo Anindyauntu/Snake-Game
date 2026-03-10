@@ -1,2 +1,4 @@
-print("This is a sanke game.")
-print("The sanke can eat now.")
+print("This is a snake game.")
+print("The snake can eat now.")
+
+print("The snake can crawl now.")
