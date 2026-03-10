@@ -3,4 +3,4 @@ print("The snake can eat now.")
 
 print("The snake can crawl now.")
 
-print("The user can now see the score.")
+print("The user can control the snake now.")
